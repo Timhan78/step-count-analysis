@@ -1,0 +1,17 @@
+# Personal data — never publish
+data/
+*.csv
+*.zip
+Data_garmin*
+Data_iphone*
+export*
+steps_daily*
+
+# Jupyter / Python housekeeping
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db

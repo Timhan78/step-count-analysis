@@ -4,6 +4,8 @@ Do I walk more on working days than on days off, how big is the gap, and is it
 statistically real? A short end-to-end data project built on my own Garmin and
 work-rota data.
 
+![Working days vs rest days infographic](infographic.png)
+
 I work as a shop manager at the British Red Cross, a role that involves a lot of
 moving around the shop floor. This project set out to quantify that: does the job
 actually show up in my daily step count, and by how much?

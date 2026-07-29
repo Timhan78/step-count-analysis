@@ -10,8 +10,6 @@ I work as a shop manager at the British Red Cross, a role that involves a lot of
 moving around the shop floor. This project set out to quantify that: does the job
 actually show up in my daily step count, and by how much?
 
-![Steps by day type](steps_by_category.png)
-
 ## Result
 
 | Day type      | Median steps/day |

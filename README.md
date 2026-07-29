@@ -82,4 +82,4 @@ third-party information out of the public repo.
 
 ---
 
-*Author: Tim ([@Timhan78](https://github.com/Timhan78))*
+*Author: Timur Siraziev ([@Timhan78](https://github.com/Timhan78))*
